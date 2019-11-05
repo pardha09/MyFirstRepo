@@ -1,3 +1,7 @@
 Motivation 1
 
+<<<<<<< HEAD
 Motivation 3 xyz
+=======
+I like this motivation
+>>>>>>> motivation
